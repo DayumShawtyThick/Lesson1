@@ -1,2 +1,4 @@
 git add . : thêm 1 hành động
 git commit -m "tên action" : đặt tên hành động
+git push origin master: đẩy code lên
+git init: khởi tạo git ở trong folder
